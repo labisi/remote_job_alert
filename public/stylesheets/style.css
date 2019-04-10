@@ -135,3 +135,58 @@ body {
 		color: #fff;
 	}
 
+/* Styling For manage subscribers */
+html{
+    height: 100%;
+}
+
+body{
+    min-height: 100%;
+    font-family: 'Work Sans', Roboto, Montserrat, sans-serif;
+}
+
+p{
+    color: #fff;
+    font-weight: 800;
+    font-family: work sans;
+}
+
+#first{
+    background-color: #11144c;
+}
+
+h2, th{
+    color: #11144c;
+}
+
+.email{
+    color: #11144c;
+    font-weight: 500;
+}
+
+.manage-list{
+    list-style: none;
+    line-height: 55px;
+    padding-top: 8rem;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.btn{
+    border: 1px solid transparent;
+    border-radius: 50%;
+    color: #fff;
+}
+
+.Subscribers-button{
+    background-color: #858af4;
+    border-radius: 100px;
+}
+
+.second{
+    background-color: #e5e5e5;
+}
+
+table{
+    font-family: Montserrat;
+}
